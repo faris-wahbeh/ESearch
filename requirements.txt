@@ -1,0 +1,6 @@
+flask==2.0.1  # Version as of my last update, you may want to get the latest.
+openai==0.27.0  # Version as of my last update, you may want to get the latest.
+whoosh==2.7.4  # Version as of my last update, you may want to get the latest.
+rank_bm25==0.2.1  # Version as of my last update, you may want to get the latest.
+nltk==3.6.2  # Version as of my last update, you may want to get the latest.
+flask_cors==3.0.10  # Version as of my last update, you may want to get the latest.
